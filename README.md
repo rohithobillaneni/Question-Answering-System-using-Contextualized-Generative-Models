@@ -33,5 +33,4 @@ The code in this project utilizes the `transformers` library for working with pr
 
 - `README.md`: This file providing an overview of the repository.
 - `code.ipynb`: Jupyter Notebook containing the main code for data processing, model training, evaluation, and user interface.
-- `requirements.txt`: File listing all dependencies required to run the code.
 
